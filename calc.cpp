@@ -7,7 +7,7 @@ int add(int a,int b){
 
 int main() {
 int a,b;
-cout<<"Addition Program"<<endl
+cout<<"Addition Program"<<endl;
 cout<<"Enter first no - ";
 cin>>a;
 cout<<"Enter second no - ";
